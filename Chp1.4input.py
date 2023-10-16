@@ -1,0 +1,18 @@
+a= input()
+b= input()
+# print(a)
+# print(b)
+print ("Input in string data type ==", a + b) # here 'a' and 'b' is in string datatype for addition need to typecast
+print ("Input in without string data type ==", int (a) + int (b))
+c= input ("enter your name :")
+print (c)
+
+i=int(input())
+j=float(input())
+print(i + j)
+print(i - j)
+print(i / j)
+print(i * j)
+print(i // j)
+print(i ** j)
+print(i % j)
