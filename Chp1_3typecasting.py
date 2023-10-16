@@ -3,11 +3,11 @@
 
 a ="1"
 b ="2"
-print(a+b) 
+print ( "value before  typecasting == ",a+b) 
 # in there output will be "12", bqz a ,b values are in string data type 
 # for changing into integer with the help of 'type casting'  so that are --
 
-print( int(a) + int (b) )
+print("value after typecasting in python ==", int(a) + int (b) )
 
 #if the value of a b is mix of two data types it will show 'ERROR' when we typecast the values, which is mention below---
 
