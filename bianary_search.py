@@ -24,7 +24,7 @@ while first<=last:
         last = middle - 1
     else:
         first = middle + 1
-else:
+else:   
     print("Element not found in the array.")
     
         
