@@ -1,6 +1,6 @@
 def function():
      pass
-if (i == 5):
+if (id == 5):
      pass
 for j in range(5):
      pass
