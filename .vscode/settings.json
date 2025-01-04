@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "HELLO.C": "cpp"
-    }
+    },
+    "liveServer.settings.port": 5501
 }
